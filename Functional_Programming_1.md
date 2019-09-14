@@ -71,4 +71,4 @@ TODO: Get rid of the lambda function in the previous example using operator.mul.
 
 ```python
 import operator
-reduce(operator.mul, val, 1)
+reduce(operator.mul, val)
