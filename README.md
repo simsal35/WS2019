@@ -1,5 +1,1 @@
-# Softwareentwicklung
-Softwareentwicklung für Dimitrij Turaev
-
-
-Hier können alle funktionierenden Programme gesammelt werden. Kommentare zur Funktionsbeschreibung sind erwünscht.
+Codesammlung für alle Fächer des 3. Semesters
